@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimas Nughadi (revaille12)</h1>
-<h3 align="center">A passionate bakcend developer and Data Science Enthusiast</h3>
+<h3 align="center">A passionate fullstack developer and Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on [Siminah Project](https://github.com/DimasNughadi/siminah)
+- 🔭 I’m currently working on [Immediate Marketing Pte. Ltd](http://www.immediate.com.sg/)
 
-- 🌱 I’m currently learning **Go language, and reactJs**
+- 🌱 I’m currently learning **Go language, and nodeJs**
 
 - 👯 I’m looking to collaborate on [Chat App](https://github.com/DimasNughadi/react-chat)
 
