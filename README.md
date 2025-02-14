@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimas Nughadi (revaille12)</h1>
+<h1 align="center">Hi 👋, I'm Dimas Nughadi</h1>
 <h3 align="center">A passionate fullstack developer and Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on [Immediate Marketing Pte. Ltd](http://www.immediate.com.sg/)
